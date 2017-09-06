@@ -1,0 +1,6 @@
+c:\users\michael\documents\visual studio 2013\Projects\dataStructureDemo\dataStructureDemo\bin\Debug\dataStructureDemo.exe.config
+c:\users\michael\documents\visual studio 2013\Projects\dataStructureDemo\dataStructureDemo\bin\Debug\dataStructureDemo.exe
+c:\users\michael\documents\visual studio 2013\Projects\dataStructureDemo\dataStructureDemo\bin\Debug\dataStructureDemo.pdb
+c:\users\michael\documents\visual studio 2013\Projects\dataStructureDemo\dataStructureDemo\obj\Debug\dataStructureDemo.csprojResolveAssemblyReference.cache
+c:\users\michael\documents\visual studio 2013\Projects\dataStructureDemo\dataStructureDemo\obj\Debug\dataStructureDemo.exe
+c:\users\michael\documents\visual studio 2013\Projects\dataStructureDemo\dataStructureDemo\obj\Debug\dataStructureDemo.pdb

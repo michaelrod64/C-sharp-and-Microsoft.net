@@ -1,0 +1,11 @@
+c:\users\michael\documents\visual studio 2013\Projects\EssentialTools\EssentialTools.Tests\obj\Debug\EssentialTools.Tests.csprojResolveAssemblyReference.cache
+c:\users\michael\documents\visual studio 2013\Projects\EssentialTools\EssentialTools.Tests\bin\Debug\EssentialTools.Tests.dll
+c:\users\michael\documents\visual studio 2013\Projects\EssentialTools\EssentialTools.Tests\bin\Debug\EssentialTools.Tests.pdb
+c:\users\michael\documents\visual studio 2013\Projects\EssentialTools\EssentialTools.Tests\bin\Debug\EssentialTools.dll
+c:\users\michael\documents\visual studio 2013\Projects\EssentialTools\EssentialTools.Tests\bin\Debug\System.Web.Mvc.dll
+c:\users\michael\documents\visual studio 2013\Projects\EssentialTools\EssentialTools.Tests\bin\Debug\Ninject.dll
+c:\users\michael\documents\visual studio 2013\Projects\EssentialTools\EssentialTools.Tests\bin\Debug\EssentialTools.pdb
+c:\users\michael\documents\visual studio 2013\Projects\EssentialTools\EssentialTools.Tests\bin\Debug\System.Web.Mvc.xml
+c:\users\michael\documents\visual studio 2013\Projects\EssentialTools\EssentialTools.Tests\bin\Debug\Ninject.xml
+c:\users\michael\documents\visual studio 2013\Projects\EssentialTools\EssentialTools.Tests\obj\Debug\EssentialTools.Tests.dll
+c:\users\michael\documents\visual studio 2013\Projects\EssentialTools\EssentialTools.Tests\obj\Debug\EssentialTools.Tests.pdb

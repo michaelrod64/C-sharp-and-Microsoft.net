@@ -1,0 +1,6 @@
+c:\users\michael\documents\visual studio 2013\Projects\module2Assignment\module2Assignment\bin\Debug\module2Assignment.exe.config
+c:\users\michael\documents\visual studio 2013\Projects\module2Assignment\module2Assignment\obj\Debug\module2Assignment.csprojResolveAssemblyReference.cache
+c:\users\michael\documents\visual studio 2013\Projects\module2Assignment\module2Assignment\bin\Debug\module2Assignment.exe
+c:\users\michael\documents\visual studio 2013\Projects\module2Assignment\module2Assignment\bin\Debug\module2Assignment.pdb
+c:\users\michael\documents\visual studio 2013\Projects\module2Assignment\module2Assignment\obj\Debug\module2Assignment.exe
+c:\users\michael\documents\visual studio 2013\Projects\module2Assignment\module2Assignment\obj\Debug\module2Assignment.pdb

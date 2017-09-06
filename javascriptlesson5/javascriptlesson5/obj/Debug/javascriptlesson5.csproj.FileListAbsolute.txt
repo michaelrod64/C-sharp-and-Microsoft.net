@@ -1,0 +1,6 @@
+c:\users\michael\documents\visual studio 2013\Projects\javascriptlesson5\javascriptlesson5\bin\javascriptlesson5.dll.config
+c:\users\michael\documents\visual studio 2013\Projects\javascriptlesson5\javascriptlesson5\bin\javascriptlesson5.dll
+c:\users\michael\documents\visual studio 2013\Projects\javascriptlesson5\javascriptlesson5\bin\javascriptlesson5.pdb
+c:\users\michael\documents\visual studio 2013\Projects\javascriptlesson5\javascriptlesson5\obj\Debug\javascriptlesson5.csprojResolveAssemblyReference.cache
+c:\users\michael\documents\visual studio 2013\Projects\javascriptlesson5\javascriptlesson5\obj\Debug\javascriptlesson5.dll
+c:\users\michael\documents\visual studio 2013\Projects\javascriptlesson5\javascriptlesson5\obj\Debug\javascriptlesson5.pdb

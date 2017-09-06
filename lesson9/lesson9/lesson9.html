@@ -1,0 +1,44 @@
+﻿<!DOCTYPE html>
+<html >
+<head>
+    <title>Looping Statemtns in JavaScript</title>
+    <script type="text/javascript">
+        
+        var playlist = []
+        playlist[0] = "One For The Team";
+        playlist[1] = "The Joy Formidable";
+        playlist[2] = "Young the Giant";
+        playlist[3] = "Washed Out";
+        /*
+        var i = 0;
+        while (i < playlist.length) {
+            document.write("<br />Now Playing: " + playlist[i]);
+            i++;
+        
+
+        var someResult = false;
+        do {
+            document.write("Will print AT LEAST once!");
+        }
+        while (someResult)
+        
+
+        for (var i = 0; i < playlist.length; i++) {
+            document.write("<br/>Now Playing: " + playlist[i]);
+        }
+        */
+
+        for (var i in playlist) {
+            document.write("<br/>Now Playing: " + playlist[i]);
+
+        }
+
+
+
+    </script>
+</head>
+<body>
+    <h1>Looping Statements in JavaScript</h1>
+
+</body>
+</html>

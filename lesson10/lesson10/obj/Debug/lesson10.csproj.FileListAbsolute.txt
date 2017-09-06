@@ -1,0 +1,6 @@
+c:\users\michael\documents\visual studio 2013\Projects\lesson10\lesson10\bin\lesson10.dll.config
+c:\users\michael\documents\visual studio 2013\Projects\lesson10\lesson10\bin\lesson10.dll
+c:\users\michael\documents\visual studio 2013\Projects\lesson10\lesson10\bin\lesson10.pdb
+c:\users\michael\documents\visual studio 2013\Projects\lesson10\lesson10\obj\Debug\lesson10.csprojResolveAssemblyReference.cache
+c:\users\michael\documents\visual studio 2013\Projects\lesson10\lesson10\obj\Debug\lesson10.dll
+c:\users\michael\documents\visual studio 2013\Projects\lesson10\lesson10\obj\Debug\lesson10.pdb

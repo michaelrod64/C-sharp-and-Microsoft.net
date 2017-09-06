@@ -1,0 +1,5 @@
+c:\users\michael\documents\visual studio 2013\Projects\DatesAndTimes\DatesAndTimes\bin\Debug\DatesAndTimes.exe.config
+c:\users\michael\documents\visual studio 2013\Projects\DatesAndTimes\DatesAndTimes\bin\Debug\DatesAndTimes.exe
+c:\users\michael\documents\visual studio 2013\Projects\DatesAndTimes\DatesAndTimes\bin\Debug\DatesAndTimes.pdb
+c:\users\michael\documents\visual studio 2013\Projects\DatesAndTimes\DatesAndTimes\obj\Debug\DatesAndTimes.exe
+c:\users\michael\documents\visual studio 2013\Projects\DatesAndTimes\DatesAndTimes\obj\Debug\DatesAndTimes.pdb
